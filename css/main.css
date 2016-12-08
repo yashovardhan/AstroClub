@@ -852,9 +852,9 @@ header .logo a {
 	top: 0;
 }
 .sticky .logo a {
-	width: 73px;
-	height: 50px;
-	background-size: 73px 50px;
+	width: 90px;
+	height: 61px;
+	background-size: 90px 61px;
 }
 
 /**
@@ -869,9 +869,9 @@ header .logo a {
 		padding: 6px 0;
 	}
 	header .logo a {
-		width: 38px;
-		height: 38px;
-		background-size: 38px 38px;
+		width: 67.5px;
+		height: 45.5px;
+		background-size: 67.5px 45.5px;
 	}
 }
 
