@@ -1787,7 +1787,7 @@ a.menu-toggle {
 		max-width: 600px;
 	}
 	#member-slider p {
-		font-size: 2.0rem;
+		font-size: 2.2rem;
 	}
 }
 @media only screen and (max-width:768px) {
@@ -1795,7 +1795,7 @@ a.menu-toggle {
 		width: 90%;
 	}
 	#member-slider p {
-		font-size: 1.8rem;
+		font-size: 2.0rem;
 	}
 }
 @media only screen and (max-width:600px) {
@@ -1803,7 +1803,7 @@ a.menu-toggle {
 		width: 95%;
 	}
 	#member-slider p {
-		font-size: 1.6rem;
+		font-size: 1.8rem;
 	}
 	#member-slider p::before, #member-slider p::after {
 		top: -0.5rem;
@@ -1814,7 +1814,7 @@ a.menu-toggle {
 		width: auto;
 	}
 	#member-slider p {
-		font-size: 1.4rem;
+		font-size: 1.6rem;
 	}
 }
 
